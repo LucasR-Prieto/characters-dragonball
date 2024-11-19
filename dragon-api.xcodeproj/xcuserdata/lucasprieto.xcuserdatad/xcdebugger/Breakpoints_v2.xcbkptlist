@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA2BBD69-143C-4BDB-8777-6BD77AE62A88"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "721D55C6-161C-4F31-B8B6-409AB2E852B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dragon-api/Home/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getCharacters(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "721D55C6-161C-4F31-B8B6-409AB2E852B8 - be6bfe742adf62d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dragon_api.HomeViewModel.getCharacters(url: Swift.String) -&gt; ()"
+                  moduleName = "dragon-api"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasprieto/Desktop/dragon-api/dragon-api/Home/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "381">
+               </Location>
+               <Location
+                  uuid = "721D55C6-161C-4F31-B8B6-409AB2E852B8 - 57aca9a1c91872fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;dragon_api.DragonModel, Swift.Error&gt;) -&gt; () in dragon_api.HomeViewModel.getCharacters(url: Swift.String) -&gt; ()"
+                  moduleName = "dragon-api"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasprieto/Desktop/dragon-api/dragon-api/Home/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24753EBB-3083-4284-990A-415128B4E442"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dragon-api/Home/View/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
